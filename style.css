@@ -1,0 +1,20 @@
+
+.row{
+    padding:4px;
+    
+}
+.col-md-4{
+    background-color: wheat;
+}
+nav{
+    height:50px;
+    margin:0;
+}
+p{
+  margin:auto; 
+  color:white; 
+
+}
+.navbar.navbar-expand-sm.bg-primary{
+    margin-top:50px;
+}
